@@ -21,8 +21,6 @@ int main() {
     cout << "How many LARGE rooms would you like cleaned? ";
     cin >> numOfLgRooms;
 
-    cout << "\n=======================" << endl;
-
     cout << "\nEsimate for carpet cleaning service" << endl;
 
     cout << "Number of SMALL rooms: " << numOfSmRooms << endl;
