@@ -38,5 +38,6 @@ int main() {
     cout << "\nThis estimae is valid for " << estExp << " days." << endl;
 
     cout << endl;
-    return 0;
+
+        return 0;
 }
